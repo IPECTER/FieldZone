@@ -1,4 +1,4 @@
-# FieldZone API
+# FieldZone
 
 ## 잠깐, 필드존이 무엇인가요? / Wait, What is FieldZone?
 필드존은 Residence, WorldGuard 등과 같은 지역 관리 플러그인입니다
